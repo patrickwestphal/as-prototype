@@ -1,0 +1,6 @@
+http://dbpedia.org/ontology/Place
+http://dbpedia.org/ontology/Wikidata:Q532
+http://schema.org/Place
+http://www.ontologydesignpatterns.org/ont/d0.owl#Location
+http://www.opengis.net/gml/_Feature
+http://www.w3.org/2002/07/owl#Thing
