@@ -1,0 +1,234 @@
+<http://dbtune.org/musicbrainz/resource/record/001d8b76-c7f4-4e96-8528-660c2be78917>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/004c3e5a-4644-4d6c-9235-804c97210035>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00510b07-d8d6-480e-b311-2fce897e230c>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003eeb41-72c0-4cf1-8ba6-d1789c10f849>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0031bbf7-d367-4481-abe8-ff88fcfa77a2>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0031fd45-a4b3-4a66-8d27-8381e37fd544>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001b620a-86a2-43f6-8392-581367c8ad6d>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00384b2a-5c78-467f-a19e-1c79f91dbdef>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001fa3e6-bc74-45ea-bf82-96d4208ddbb2>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003ad0e3-3b5f-4e15-8fc1-2878ff00008f>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0043e549-f871-4781-8151-c54ad1919378>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003ff491-4d19-48fe-bb81-07ea270196db>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001f9cf0-4676-4803-bafc-f5ce9b385b14>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003c37ab-fb22-4f34-9cec-42142529502e>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00165c99-9b70-4437-af2c-88a68964d107>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00277ea9-811a-435f-9cbf-d9d728afc8bf>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001bf21f-f12e-4d09-8ca4-e05cfc06367e>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003abcc9-c2f0-4f64-b27d-b3a97a16a162>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0042ad22-1274-40ae-bded-14d140ae5a05>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0030c1fa-34cd-4a25-b090-67d126e89d75>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/002f402e-e4cb-4c6f-812e-18ac5da9cb1a>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0016e48e-31d1-4650-a255-b6fb2fe84d07>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003f4d17-fdec-4137-ab27-97300cffbea3>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/000e9e91-7910-4be9-8dc6-d976f540ee88>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00181731-5a30-4256-8991-79eac7ac032e>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/000dbfe9-3e48-4fb3-b2d4-e78c73aa996c>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001e93c6-a592-425c-8603-cfef2534f165>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/000a0327-b7f4-4fcb-8ce2-ca8aee303119>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/000b4200-6c64-4274-8d27-c81a7272840a>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00224a47-e321-4096-bac7-b35130a1027c>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00324b37-632c-45ff-b8ea-2db65c05ca7d>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00333c95-ac5e-4b35-b1ed-0085a7205669>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00236432-2442-4c89-976a-9b6f6cf68d64>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0005e328-0d87-47e9-91b3-e3ca1aac3fcc>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/000cf294-0a6e-4b27-b6ce-6547c360cdeb>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0011fada-6177-42c0-a3a4-880cd2a153be>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00007f96-14a8-43e8-955d-0b00323a53bd>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/004591ba-2be7-4dac-83e7-fa4c95c92d5b>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001af8ff-6b17-47f4-9a49-27d46b02545c>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/004d6870-3e35-464a-9321-f24469d3a99e>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0053a87e-bedd-4fc7-ac5d-2f2316fde5fa>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00484601-d12f-47ea-9c4e-3741e5a7a725>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0018a5ae-ac14-48dc-9aa0-c518fd5be7e4>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/002ae4e3-5c20-412f-8920-ef263d2cf670>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/004af386-0aa9-43fd-b42d-98828ce18002>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0054babb-940c-430a-9652-0f9c53b4cc4f>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00456f9b-27d9-4849-953b-e9991b377052>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0052eda4-e427-4c97-a8bd-9324a2a4347a>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/002e9079-1e4f-4da1-977f-542a711aae36>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/004ff7a8-5d81-4d1f-9184-f1a381834855>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0017c9c3-7bab-49ee-af43-8fbc6cc51522>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0043751d-ea56-4ccf-a341-cdd84c2681ec>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0050aad1-fa7c-4d8d-ba3d-52c74395ec73>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0020ab89-3908-4769-9b87-c28c56561d97>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0020d3f1-e2ba-4e19-a060-038c7e6cb565>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0015afdd-49e1-41ae-897b-ac1a8ca3bcbe>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00005c65-c785-487a-a5f0-bec60f5c90f1>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00439d62-8f63-4748-903e-36d033836225>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003e42e3-af1e-4e3f-8971-57d37dbb1186>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0006570a-08af-495e-8b8c-a121fb7c9ea2>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/002c7411-60c3-4065-9d3a-c09d62bcdfd0>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/004cb0bb-6d7f-4225-8d1c-111a3d20a32a>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001f7caf-efdd-4b3a-ba28-1dfef9e55d58>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00410e82-430b-4474-9e7f-4f2ca44caaf1>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001106ca-4a2b-4770-ac15-331777847307>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0003c884-ae8b-4a62-b7f1-4a634d32d0b9>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0009e26a-67da-431f-8c9b-2578e2d91d62>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/002f78d3-0e9e-4c70-859b-96b3a1acf0bf>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/000134d9-605a-44b0-a125-f92d4b205f2e>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0046fe62-2616-48fe-ac3b-ccb9c348b704>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/004c95c4-ed32-481f-a2c7-cb39aeaba7cf>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0013d069-4642-4e8f-b23e-1efc41aa871a>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003bd3ad-ed3b-4471-9ea0-91f21335dff3>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/001b0738-157c-4ba8-a318-bed5f0425132>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/00207cb2-764d-4b93-b462-d5ef97fc2ef6>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/003b9d76-044d-4695-9f22-db6d447a308e>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/002fec35-8f47-4f36-a8e6-8699e0c23668>
+   http://purl.org/ontology/mo/Record
+
+<http://dbtune.org/musicbrainz/resource/record/0002f642-03a1-4866-bc80-cef3784fd143>
+   http://purl.org/ontology/mo/Record
+
